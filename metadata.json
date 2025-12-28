@@ -1,0 +1,8 @@
+{
+  "name": "AppBuilder AI - Web-to-Android SaaS",
+  "description": "A comprehensive SaaS dashboard to convert any website into a high-performance native Android application using AI analysis and automated build systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
